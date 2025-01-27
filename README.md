@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hello there :eyes:
 
-<!--
-**fithurriague/fithurriague** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my profile! Here it is all you need to know:
 
-Here are some ideas to get you started:
+```json
+  {
+    "name": "Francisco Ithurriague",
+    "profession": "Backend Developer",
+    "grades": [
+      {"software engineering": "ongoing"},
+      {"system analyst": "finished"}
+    ],
+    "skillset": [
+      "golang",
+      "algorithms",
+      "data structures",
+      "design patterns",
+      "architecture",
+      "development methodologies",
+      "networks",
+      "microservices",
+      "operating systems",
+      "devops",
+      "google cloud"
+    ]
+  }
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Questions about any domain specific technology? Feel free to **[contact me](https://linktr.ee/fithurriague)**
